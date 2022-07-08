@@ -23,11 +23,7 @@
         "maintainer": true
       }
     ],
-    "license": "MIT",
-    "homepage": "https://www.helloworld.org/",
-    "dependencies": {
-      
-    },
+   
     "frameworks": "*",
     "platforms": "*"
   }
